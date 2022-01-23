@@ -23,7 +23,7 @@
   <img align="center" alt="Maria-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.ffor41-1.fna.fbcdn.net/v/t51.2885-19/s150x150/221831397_101144138905927_3980653643091523599_n.jpg?_nc_ht=instagram.ffor41-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=r0ToXb-kdJoAX-xyxfW&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-sejnIOZMtuj4ViI-IGk9Ns5j4X9Z9ig_4lkPAmuuUdg&oe=61F34534&_nc_sid=7bff83">
 </div>
-  ##
+  <br>
   
   <div> 
   <a href="https://instagram.com/mgiovanellah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
