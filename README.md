@@ -3,7 +3,7 @@
 
 - 😃 I'm a front-end jr developer
 - 🧑‍🎓 I am a software engineering and civil engineering student 
-- 🌱 I am currently studying javascript, kotlin and ruby ​​on rails
+- 🌱 I am currently studying javascript and ruby ​​on rails
 - 💻  Currently I do projects with rails, html, css and I seek to learn other development tools
 - 😃 I love web application and I seek to learn every day
 
@@ -20,7 +20,6 @@
   <img align="center" alt="Maria-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.ffor41-1.fna.fbcdn.net/v/t51.2885-19/s150x150/221831397_101144138905927_3980653643091523599_n.jpg?_nc_ht=instagram.ffor41-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=r0ToXb-kdJoAX-xyxfW&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-sejnIOZMtuj4ViI-IGk9Ns5j4X9Z9ig_4lkPAmuuUdg&oe=61F34534&_nc_sid=7bff83">
 </div>
   <br>
